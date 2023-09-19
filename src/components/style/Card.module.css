@@ -1,0 +1,5 @@
+.Card {
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+}
